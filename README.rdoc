@@ -1,1 +1,21 @@
-This i sa twitter clon App with a bootstraped format
+Methodology
+
+rails new
+  gems
+rails g model
+  devise
+seed data rake db seed
+routes
+controller
+  index
+    method
+    view
+  new
+    method
+    view
+  create
+    method
+    view
+  show
+    method
+    view
